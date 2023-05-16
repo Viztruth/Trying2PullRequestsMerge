@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main()
 {
-int n=1;
+int n=1,m=2;
   printf("\nthe sum: ");
-printf("\n: %d",n);
+printf("\n+m: %d",n+m);
 return 0;
 }
